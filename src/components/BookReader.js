@@ -23,6 +23,7 @@ const BookReader = () => {
   const [currentBook, setCurrentBook] = useState(importedBooks['book1.json']);
   const [currentMusic, setCurrentMusic] = useState(musicLibrary[currentBook.pages.backgroundMusic]);
   const [musicPlaying, setMusicPlaying] = useState(false);
+  const [audioElement, setAudioElement] = useState(null);
 
   const handleOptionClick = (target) => {
     if (target.endsWith('.json') && importedBooks[target]) {
@@ -30,7 +31,14 @@ const BookReader = () => {
       setCurrentBook(newBook);
       setCurrentPage('1');
       setCurrentMusic(musicLibrary[newBook.pages.backgroundMusic]);
-      setMusicPlaying(false);
+      
+      // Müziği durdurun ve audioElement'i sıfırlayın
+      if (audioElement) {
+        audioElement.pause();
+        audioElement.currentTime = 0;
+        setMusicPlaying(false);
+        setAudioElement(null);
+      }
     } else {
       setCurrentPage(target);
     }
@@ -40,8 +48,15 @@ const BookReader = () => {
 
   const playMusic = () => {
     if (currentMusic) {
-      const audioElement = new Audio(currentMusic);
-      audioElement.play();
+      if (audioElement) {
+        // Eğer audioElement zaten varsa, durdurun
+        audioElement.pause();
+        audioElement.currentTime = 0;
+      }
+      
+      const newAudioElement = new Audio(currentMusic);
+      newAudioElement.play();
+      setAudioElement(newAudioElement);
       setMusicPlaying(true);
     }
   };
