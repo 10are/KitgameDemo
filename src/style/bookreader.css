@@ -79,3 +79,23 @@ body {
   .music-button:hover {
     background-color: #0056b3;
   }
+
+  
+.music-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(3); /* Butonu 3 kat büyütür */
+  background-color: #333333fd; /* Koyu bir arka plan rengi */
+  color: white;
+  padding: 15px 30px; /* Daha büyük bir içerik kutusu */
+  border-radius: 8px; /* Daha yuvarlatılmış köşeler */
+  cursor: pointer;
+  z-index: 1; /* Diğer içeriğin üzerinde olmasını sağlar */
+}
+
+  
+  .music-button:hover {
+    background-color: rgba(0, 0, 0, 0.7); /* Butona hover yapıldığında daha belirgin bir gölge */
+  }
+  

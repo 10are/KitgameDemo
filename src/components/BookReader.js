@@ -72,7 +72,7 @@ const BookReader = () => {
       </div>
       {!musicPlaying && (
         <div className="music-button" onClick={playMusic}>
-          Müziği Başlat
+          Hadi Başlayalım!
         </div>
       )}
       {currentMusic && musicPlaying && (
@@ -84,6 +84,7 @@ const BookReader = () => {
       )}
     </div>
   );
+  
 };
 
 export default BookReader;
