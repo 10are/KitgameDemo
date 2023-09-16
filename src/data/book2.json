@@ -2,11 +2,35 @@
     "pages": {
       "backgroundMusic": "music2",
       "1": {
-        "content": "Book 2 - gidiyor mu diye bakıyorum"
-      },
+        "content": "Bindikleri vagon yolcudan ziyade erzak taşımak için kullanılan bir yerdi, pek konforlu değildi, hele ki 20 saati aşkın bir yolculuk için. Deniz sinir krizi geçiriyordu. Ağlayıp ağlayıp duruyordu. Can onu ne kadar sakinleştirmeye çalışsa da nafile. Yaklaşık yarım saatten sonra Yusuf komutan, 'Yeter lan, seni mi dinleyeceğiz' diye bağırdı. Deniz ise 'dünya yok oluyor, nasıl bu kadar rahatsınız!! Herkes ölecek, biz de öleceğiz!' Asker, 'Komutanım ne diyor bu manyak, ne yok olması' Yusuf komutan her şeyi anlattı Asker’e. Asker çok öfkelenmişti, ailesi vardı ve çok uzaktı, ailesine. Silahını çekip etrafa savurdu, 'böyle şey saklanır mı lan, durdurun treni, oruspu çocukları!' Kemal tam arkasındaydı.",
+        "options": [
+          { "text": "Kemal Askerin kafasına vurur", "target": "2" },
+          { "text": "Hiçbir şey  yapmaz", "target": "3" }
+        ]
+      }, 
       "2": {
-        "content": "Book 2 - Sayfa 2 içeriği"
+        "content": "Kemal cesaretini toplayıp, tüm gücü ile ensesine vurur, asker sarsılır fakat bayılmaz, arkasına döner dönmez ateş eder, tam o sıra Yusuf komutan elinden silahı alıp, silahla kafasına vurup bayıltır. Kemal vücuduna bakıyordu, ateş edilmişti ama kan akmıyordu. Tam o sıra Can, 'Kemal, vuruldum' der ve karnını tutar, midesinde vurulmuştu, kanlar içinde yatıyordu. Hemen yaraya tampon yaptılar, Kemal, 'Can merak etme yaşayacaksın, ölmeyeceksin.' Can çok kötü bir yara almıştı, tren o sıra yaklaşık 10 dakika mesafesi olan bir hastanenin yanında geçiyordu. Kemal Yusuf komutan’a, 'Treni durdur, buraya 10 dakika mesafede hastane var, hızlı olursak yaşayabilir.' Yusuf komutan, 'Kemal, bu tren durmaz, durursa da beklemez. Çok geç, bu kadar risk aldım, o sığınağa beni getireceksin. Yoksa kafasına sıkarım.'",
+        "options": [
+          { "text": "Kemal Treni durdurmak ister", "target": "4" },
+          { "text": "Kemal susar", "target": "4" }
+
+           
+        ]
+      },
+    
+      "3": {
+        "content": "Kemal hiçbir şey yapamaz. Asker silahı Kemal’e doğrultur, bir şeyler söylerken fırsatı değerlendirip Yusuf komutan üstüne atlar, boğuşma sırasında silah patlar, Asker bir anda durur ve etrafına bakar, nereye sıktığını o da bilmiyordu. Yusuf komutan o sırada silahı alıp, bayıltır askeri. O sırada Can, 'Kemal, vuruldum..' der. Midesinde bir yara almıştı, oracıkta yere yığılır, kanlar içinde yatıyordu. Hemen yaraya tampon yaptılar, Kemal, 'Can merak etme yaşayacaksın, ölmeyeceksin.' Can çok kötü bir yara almıştı, tren o sıra yaklaşık 10 dakika mesafesi olan bir hastanenin yanında geçiyordu. Kemal Yusuf komutan’a, 'Treni durdur, buraya 10 dakika mesafede hastane var, hızlı olursak yaşayabilir.' Yusuf komutan, 'Kemal, bu tren durmaz, durursa da beklemez. Çok geç, bu kadar risk aldım, o sığınağa beni getireceksin. Yoksa kafasına sıkarım.'",
+        
+        "options": [
+          { "text": "Kemal Treni durdurmak ister", "target": "4" },
+          { "text": "Kemal susar", "target": "4" }
+
+        ]
+      },
+      "4": {
+        "content": "Yusuf komutan bir anda silahı Can’ın kafasına doğrultur ve ateş eder. Kemal ve Deniz dona kalır, hiçbir şey yapamaz. Can oracıkta ölür. Kemal, komutana saldırmaya çalışır, Komutan Kemal’i yere yatırıp, 'Sakinleş lan, yaşama şansı yoktu zaten. Kurtaramazdık, bırak kalanlar yaşasın.' Kemal ağlamaya başlar ve hiçbir şey diyemez."
+        
       }
-    }
   }
+}
   

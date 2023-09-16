@@ -15,7 +15,7 @@ const importedBooks = importAll(require.context('../data', false, /\.json$/));
 
 const musicLibrary = {
   music1: '/music/rain.mp3',
-  music2: '/music/test.mp3',
+  music2: '/music/tren.mp3',
 };
 
 const BookReader = () => {
@@ -72,7 +72,7 @@ const BookReader = () => {
       </div>
       {!musicPlaying && (
         <div className="music-button" onClick={playMusic}>
-          Hadi Başlayalım!
+          Devam!
         </div>
       )}
       {currentMusic && musicPlaying && (
