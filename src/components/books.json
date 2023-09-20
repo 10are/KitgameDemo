@@ -1,0 +1,77 @@
+{
+  "Bilim Kurgu": [
+    {
+      "id": 1,
+      "title": "Siyah Güneş",
+      "author": "Onur Yılmaz",
+      "rating": 5,
+      "image": "images/indir2.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Kuantum Gölgesi",
+      "author": "Octavius Frost",
+      "rating": 3.8,
+      "image": "images/indir3.jpeg"
+    },
+    {
+      "id": 1,
+      "title": "Paralel Düşler",
+      "author": "Seraphina Nightshade",
+      "rating": 4.5,
+      "image": "images/indir4.jpeg"
+    },
+    {
+      "id": 1,
+      "title": "Yıldızlar Arası Giz",
+      "author": "Orion Blackwood",
+      "rating": 4.5,
+      "image": "images/indir5.jpeg"
+    },
+    {
+      "id": 1,
+      "title": "Robotların İsyanı",
+      "author": "Elara Winstone",
+      "rating": 4.5,
+      "image": "images/indir2.jpeg"
+    }
+  ],
+  
+  "Polisiye": [
+    {
+      "id": 3,
+      "title": "Gizli Dosyalar",
+      "author": "Lysander Thornhill",
+      "rating": 4.2,
+      "image": "images/polis1.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Cinayet Kapanı",
+      "author": "Octavius Frost",
+      "rating": 3.9,
+      "image": "images/polis2.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Karşıt İzler",
+      "author": "Seraphina Nightshade",
+      "rating": 3.9,
+      "image": "images/polis3.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Sessiz Tanık",
+      "author": "Orion Blackwood",
+      "rating": 3.9,
+      "image": "images/polis4.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Kara Günceler",
+      "author": "Elara Winstone",
+      "rating": 3.9,
+      "image": "images/polis5.jpeg"
+    }
+  ]
+}

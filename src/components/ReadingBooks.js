@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Page from './Page';
 import ReactAudioPlayer from 'react-audio-player';
 import '../style/bookreader.css';
 
@@ -18,7 +17,7 @@ const musicLibrary = {
   music2: '/music/tren.mp3',
 };
 
-const BookReader = () => {
+const ReadingBooks = () => {
   const [currentPage, setCurrentPage] = useState('1');
   const [currentBook, setCurrentBook] = useState(importedBooks['book1.json']);
   const [currentMusic, setCurrentMusic] = useState(musicLibrary[currentBook.pages.backgroundMusic]);
@@ -85,4 +84,4 @@ const BookReader = () => {
   );
 };
 
-export default BookReader;
+export default ReadingBooks;

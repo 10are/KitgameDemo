@@ -1,13 +1,20 @@
-// src/App.js
 import React from 'react';
-import './App.css';
-import BookReader from './components/BookReader';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import HomePage from './Pages/HomePage';
+import Detail from './Pages/Detail';
+import Detailss from './Pages/Detailss';
 
 function App() {
   return (
-    <div className="App">
-      <BookReader />
-    </div>
+    <Router>
+      <div className="App">
+        <Routes>
+          <Route path="/" element={<HomePage />} /> 
+          <Route path="/detail/:id" element={<Detail />} />
+          <Route path="/detailss" element={<Detailss />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
