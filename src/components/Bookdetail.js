@@ -6,7 +6,7 @@ function Bookdetail() {
     title: "Siyah Güneş",
     author: "Onur Yılmaz",
     rating: 5,
-    image: "/images/indir2.jpeg",
+    image: "/images/indir2.jpg",
     description: "Kitap detayları buraya gelebilir."
   };
 

@@ -1,7 +1,6 @@
 
 
 .book-reader {
-  background-image: url('../image/sun.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -11,38 +10,41 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* Diğer stil tanımlamaları buraya eklenir */
+  transition: background-image 3s ease-in-out;; 
 }
-
-
+.book-reader.blurred {
+  filter: blur(10px); /* Arka plan resmini bulanıklaştırmak için bir değer belirleyin */
+}
 .text-box {
-    padding: 40px; /* Metin kutusunu daha fazla iç boşluk ekler */
-    border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    color: #ffffff;
-    max-width: 600px;
-    width: 100%;
-    margin: 20px auto;
-    line-height: 1.6; /* Daha iyi okunabilirlik için satır yüksekliği artırıldı */
-    font-size: 18px; /* Metin boyutu artırıldı */
-    font-family: 'Arial', sans-serif; 
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  color: #ffffff;
+  max-width: 600px;
+  width: 100%;
+  margin: 20px auto;
+  line-height: 1.6;
+  font-size: 18px;
+  font-family: 'Arial', sans-serif;
+  background-color: rgba(0, 0, 0, 0.5); /* Metin kutusu arka plan rengi */
+  text-align: center; /* Metni ortala */
 }
 
-/* Butonlar için stil */
 .text-box button {
-    background-color: #333;
-    color: #ffffff;
-    border: none;
-    border-radius: 5px;
-    padding: 10px 20px;
-    margin: 10px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+  background-color: #333;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
 .text-box button:hover {
-    background-color: #555;
+  background-color: #555;
 }
+
 
 /* Animasyon efekti */
 .text-box button {

@@ -42,7 +42,8 @@ const ReadingBooks = () => {
     }
   };
 
-  const { content, options } = currentBook.pages[currentPage];
+  const currentPageData = currentBook.pages[currentPage];
+  const backgroundImagePath = currentPageData.backgroundImage || "";
 
   const playMusic = () => {
     if (currentMusic) {
@@ -59,10 +60,10 @@ const ReadingBooks = () => {
   };
 
   return (
-    <div className="book-reader">
+    <div className="book-reader" style={{ backgroundImage: `url(${backgroundImagePath})` }}>
       <div className="text-box">
-        <p>{content}</p>
-        {options && options.map((option, index) => (
+        <p>{currentPageData.content}</p>
+        {currentPageData.options && currentPageData.options.map((option, index) => (
           <button key={index} onClick={() => handleOptionClick(option.target)}>
             {option.text}
           </button>

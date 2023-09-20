@@ -4,13 +4,15 @@
     "1": {
       
       "content": "Diyarbakır'da gri ve yağmurlu bir sabah vardı. Kemal, Uzay bilimleri mühendisi olarak çalıştığı Uluslararası Uzay ve Teknoloji Araştırma Merkezi'ne (UUTAM) gitmek üzere yataktan kalkıp duşa girdi. Öylesine şiddetli bir yağmur vardı ki, duşta bile dışarıdaki yağmurun sesini net bir şekilde duyabiliyordu. Kemal, eski külüstür arabasıyla iş yerine nasıl gideceğini düşünmeye başladı. Yağmurun şiddeti onu biraz endişelendiriyordu. Duştan çıktı, üstünü kuruladı ve onunla birlikte çalışan diğer iki arkadaşına mesaj attı. \"Beni alabilir misiniz?\" diye sordu. Ancak bir süre cevap alamadıktan sonra tekrar aradı ve ulaşamadı. Durumdan pek memnun olmayan Kemal, iç çekip arabasına doğru yola aldı. Yağmur şiddetlenmişti. Arabasına binip kontağı çevirdi, arabanın ısınmasını beklerken özel şirket mesajlaşmaları için kullandığı Slack grubunu açtı. Ancak grupta hiçbir mesaj görünmüyordu ve hatta grup silinmiş gibiydi. Anlam verememişti bu duruma çünkü tüm görevlendirmeler genellikle bu grup üzerinden gidiyordu. Kemal bir hayli huysuzlanmıştı bu durumdan.",
+      "backgroundImage": "images/indir2.jpg",
       "options": [
         { "text": "Sonraki Sayfa", "target": "2" }
       ]
     },
     "2": {
-      "content": "Arabasını yağmurun şiddetini göz önünde bulundurarak yavaşça sürmeye başladı. İş yerine gitmek için yarım saatlik bir mesafe vardı, ancak yağmurdan dolayı bu sefer neredeyse bir saat sürdü. Kemal biraz geç kalmıştı ve iş yerine gittiğinde kapıya vurdu, ancak kimse kapıyı açmadı. Durumu anlamak için içgüdülerini dinleyerek etrafına bakındı. Tam o sırada Deniz ve Can geldi, arabayı hemen yanına park ettiler. Kemal'in yüzünde şaşkınlık vardı. 'Nasıl bu kadar geç kaldınız?' dedi. Deniz, hafif bir gülümsemeyle cevap verdi. 'Maalesef trafik ve yağmur bizi geciktirdi.' Can da onaylayarak ekledi, 'Evet, tam bir trafik kabusuyla karşılaştık.' Kemal, arkadaşlarının rahat tavırlarına karşı içinde hala bir gariplik hissediyordu. Yaşananların sadece yağmur nedeniyle olduğunu düşünmek istedi ancak içindeki huzursuzluk geçmiyordu. İş yerinde olanlarla ilgili bir şeylerin ters gittiğini düşünüyordu."
-      ,
+      "content": "Arabasını yağmurun şiddetini göz önünde bulundurarak yavaşça sürmeye başladı. İş yerine gitmek için yarım saatlik bir mesafe vardı, ancak yağmurdan dolayı bu sefer neredeyse bir saat sürdü. Kemal biraz geç kalmıştı ve iş yerine gittiğinde kapıya vurdu, ancak kimse kapıyı açmadı. Durumu anlamak için içgüdülerini dinleyerek etrafına bakındı. Tam o sırada Deniz ve Can geldi, arabayı hemen yanına park ettiler. Kemal'in yüzünde şaşkınlık vardı. 'Nasıl bu kadar geç kaldınız?' dedi. Deniz, hafif bir gülümsemeyle cevap verdi. 'Maalesef trafik ve yağmur bizi geciktirdi.' Can da onaylayarak ekledi, 'Evet, tam bir trafik kabusuyla karşılaştık.' Kemal, arkadaşlarının rahat tavırlarına karşı içinde hala bir gariplik hissediyordu. Yaşananların sadece yağmur nedeniyle olduğunu düşünmek istedi ancak içindeki huzursuzluk geçmiyordu. İş yerinde olanlarla ilgili bir şeylerin ters gittiğini düşünüyordu.",
+
+      "backgroundImage": "images/indirsex.jpg",
       "options": [
         { "text": "Sonraki Sayfa", "target": "3" }
       ]
@@ -18,6 +20,7 @@
     "3": {
       "content": "Kemal, yağmurun verdiği rahatsızlıkla, hızlıca şifreyi girip üste girmek istedi, fakat işe yaramıyordu. Yağmurdan dolayı olabileceğini düşündü, ama üstün teknolojisi, bir yağmur ile bozulacak seviyede değildi. Kemal Can'a seslendi, \"Şu kartını kullan, şifre geçmiyor,\" dedi. Can da denedi, fakat kapı hala açılmıyordu. Deniz, ayy yeter, sırılsıklam oldum. Kemal, kilidi aç da arabana binelim dedi. Kemal, Deniz'e biraz sinirli, biraz da durumun verdiği huzursuzlukla garip garip bakıp, hiçbir şey demeden kilidi açıp arabaya bindi. Deniz ve Can da ardından bindi. Kemal eline hemen telefonunu alıp, genel merkezle iletişim kurmaya çalıştı. Şirket herkese telefon ve kişiye özel hat vermişti. Kemal'de sadece Amerika'daki işe girerken tanıştığı HR olan Zenaida'nın numarası vardı. Hemen onu aradı. Zenaida telefonu hemen açtı. Kemal daha selam veremeden, Zenaida, \"Kemal, problem var, Kanada'da sabah saatlerinde üstlerimizden birinde, bir acil durum ihbarı yapıldı. Güneş ışınlarıyla ilgili bir rapor yayımladılar, fakat rapor yayımlanır yayımlanmaz, tüm iletişim araçlarımız kesildi, üstler kitlendi ve yöneticilere asla ulaşamıyoruz. Üste girebiliyor musunuz?\" Kemal şok geçirdi."
       ,
+      "backgroundImage": "images/indir2.jpeg",
       "options": [
         { "text": "Sonraki Sayfa", "target": "4" }
       ]
@@ -25,6 +28,7 @@
     "4": {
       "content": "O sırada arkada Deniz, \"Instagram, Twitter, hepsi kapalı ya, bizim internette mi problem var acaba?\" dedi. Kemal sert bir ses tonuyla, \"Kapatın çenenizi,\" deyip, telefonu hoparlörlere aldı. \"Zenaida, dediklerini tekrar anlatır mısın?\" dedi. Zenaida ise, \"Üste yakınsanız ne yapıp ne edip içeri girin, bir terslik var,\" dedi. Deniz ve Can olaya çok yabancı kaldı. Kemal arabadan hışımla indi, bagajdan baltayı aldı. Üstün arka kapısına gidip vurmaya başladı. Deniz ve Can peşinden gitti. Can, \"Ne yapıyorsun lan sen, kendine gel. Başımıza jandarmaları toplayacaksın,\" dedi. Üstün güvenlik politikaları devlete bağlıydı. İzinsiz girişlerde en yakındaki jandarma karakoluna bildirim düşüyordu. Kemal kapıyı kırdı ve içeri girdiler. Kemal hemen bilgisayarının başına oturdu ve Kanada'dan gelen raporu inceliyordu. Raporda Güneş'in gönderdiği ışınların değerlerinde bir bozulma olduğunu ve ışınların dünyaya gelmesiyle tüm DNA yapısının bozulabileceğini öngördüklerini fark etti. Zararlı ışınların Dünya'ya çarpması için öngörülen süre ise 12 Şubat, yani 2 gün sonraydı. Kemal, raporu sesli bir şekilde okumuştu. Deniz ağlamaya başladı, sinir krizi geçiriyordu. Can, onu sakinleştirmeye çalışırken Kemal'e \"Bizimle şaka falan yapıyor olmasınlar?\" diye sordu. Kemal ise, \"Saçmalama, tüm sistemleri durdurmuşlar. Bir şaka için böyle bir şey yapılır mı?\" dedi."
       ,
+      "backgroundImage": "images/indir2.jpeg",
       "options": [
         { "text": "Sonraki Sayfa", "target": "5" }
       ]
@@ -32,6 +36,7 @@
     "5": {
       "content": "O sırada Kemal'in telefonuna bir SMS geldi. Tatbikat için Türkiye genelinde OHAL ilan edildiği, endişe edilecek bir durumun olmadığı, ancak şehirler arası yolculuğun kesinlikle yasaklandığı yazıyordu. Kemal, telefonuna sarıldı ve Zenaida'ya durumu özetlemek istedi. Ancak Zenaida ona fırsat vermeden konuşmaya başladı. \"Kemal, dünya'da 2 gün sonra güneşin temas ettiği her şey bozulacak, her canlı ölecek. Eşim az önce tüm olan biteni anlattı. Bir sığınak var, oraya gidiyoruz. Devletler kendi aralarında sessizlik yemini etmişler. Sessizce kendilerini sığınaklara kapatıp, geri kalanları ÖLÜME terk edecekler. Elimde her ülkenin sığınaklarının olduğu bir liste var. Türkiye için 3 adet sığınak adresi var. Ankara, İstanbul ve Çanakkale'de bulunuyor. Ne yapıp ne edin sığınaklara ulaşın.\" dedi ve telefonu kapattı. Kemal, \"Dur dur, açık adres vermeyecek misin?\" dedi, tam o sırada bir fotoğraf yolladı; açık adreslerin olduğu fotoğraf. Kemal Zenaida’ya inanıyordu çünkü eşi bir bürokrattı. Deniz, bunları duyduktan sonra iyice kötü oldu. O sırada siren seslerini duymaya başladılar, jandarma gelmişti."
       ,
+      "backgroundImage": "images/indir2.jpeg",
       "options": [
         { "text": "Sonraki Sayfa", "target": "6" }
       ]
@@ -39,6 +44,7 @@
     "6": {
       "content": "Kemal, kapıya çıkıp jandarmayı karşılar. Gelen asker Yusuf Komutandı. Kemal, Yusuf Komutanı çok da samimi olmamakla birlikte tanırdı. Yusuf Komutan, 'Kemal Bey, merhaba. Alarmı öttü, hayırdır bir sorun yok değil mi?' der. Kemal çok gergindi ve komutanın Deniz'e baktığını fark etti. Deniz berbat görünüyordu. Kemal yalan söylemeyi düşündü ama komutan çoktan şüphelenmişti. Kemal..."
       ,
+      "backgroundImage": "images/indir3.jpeg",
       "options": [
         { "text": "Kemal yalan söyler", "target": "7" },
         { "text": "Kemal bir şey yok der", "target": "8" }
