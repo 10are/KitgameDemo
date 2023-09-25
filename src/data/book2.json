@@ -4,8 +4,7 @@
       "1": {
         "content": "Bindikleri vagon yolcudan ziyade erzak taşımak için kullanılan bir yerdi, pek konforlu değildi, hele ki 20 saati aşkın bir yolculuk için. Deniz sinir krizi geçiriyordu. Ağlayıp ağlayıp duruyordu. Can onu ne kadar sakinleştirmeye çalışsa da nafile. Yaklaşık yarım saatten sonra Yusuf komutan, 'Yeter lan, seni mi dinleyeceğiz' diye bağırdı. Deniz ise 'dünya yok oluyor, nasıl bu kadar rahatsınız!! Herkes ölecek, biz de öleceğiz!' Asker, 'Komutanım ne diyor bu manyak, ne yok olması' Yusuf komutan her şeyi anlattı Asker’e. Asker çok öfkelenmişti, ailesi vardı ve çok uzaktı, ailesine. Silahını çekip etrafa savurdu, 'böyle şey saklanır mı lan, durdurun treni, oruspu çocukları!' Kemal tam arkasındaydı.",
         "options": [
-          { "text": "Kemal Askerin kafasına vurur", "target": "2" },
-          { "text": "Hiçbir şey  yapmaz", "target": "3" }
+          { "text": "Kemal Askerin kafasına vurur", "target": "book3.json" }
         ]
       }, 
       "2": {

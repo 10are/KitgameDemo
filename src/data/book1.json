@@ -14,7 +14,7 @@
 
       "backgroundImage": "images/indirsex.jpg",
       "options": [
-        { "text": "Sonraki Sayfa", "target": "3" }
+        { "text": "Sonraki Sayfa", "target": "book2.json" }
       ]
     },
     "3": {

@@ -16,6 +16,18 @@ const musicLibrary = {
   music1: '/music/rain.mp3',
   music2: '/music/tren.mp3',
 };
+const StartButton = ({ onStart }) => {
+  return (
+    <div className="flex justify-center items-center h-screen">
+      <button
+        className="bg-gray-800 hover:bg-gray-600 text-white font-bold py-3 px-6 rounded-lg text-xl transition duration-300"
+        onClick={onStart}
+      >
+        Hikayeye Başla
+      </button>
+    </div>
+  );
+};
 
 const ReadingBooks = () => {
   const [currentPage, setCurrentPage] = useState('1');
@@ -23,6 +35,19 @@ const ReadingBooks = () => {
   const [currentMusic, setCurrentMusic] = useState(musicLibrary[currentBook.pages.backgroundMusic]);
   const [musicPlaying, setMusicPlaying] = useState(false);
   const [audioElement, setAudioElement] = useState(null);
+  const [musicPermissionGiven, setMusicPermissionGiven] = useState(false);
+
+  useEffect(() => {
+    if (musicPermissionGiven && !musicPlaying) {
+      playMusic();
+    }
+  }, [currentPage, musicPermissionGiven]);
+
+  const handleStartButtonClick = () => {
+    if (!musicPermissionGiven) {
+      setMusicPermissionGiven(true);
+    }
+  };
 
   const handleOptionClick = (target) => {
     if (target.endsWith('.json') && importedBooks[target]) {
@@ -61,20 +86,20 @@ const ReadingBooks = () => {
 
   return (
     <div className="book-reader" style={{ backgroundImage: `url(${backgroundImagePath})` }}>
-      <div className="text-box">
-        <p>{currentPageData.content}</p>
-        {currentPageData.options && currentPageData.options.map((option, index) => (
-          <button key={index} onClick={() => handleOptionClick(option.target)}>
-            {option.text}
-          </button>
-        ))}
-      </div>
-      {!musicPlaying && (
-        <div className="music-button" onClick={playMusic}>
-          Devam!
+      {!musicPermissionGiven && (
+        <StartButton onStart={handleStartButtonClick} />
+      )}
+      {musicPermissionGiven && (
+        <div className="text-box">
+          <p>{currentPageData.content}</p>
+          {currentPageData.options && currentPageData.options.map((option, index) => (
+            <button key={index} onClick={() => handleOptionClick(option.target)}>
+              {option.text}
+            </button>
+          ))}
         </div>
       )}
-      {currentMusic && musicPlaying && (
+      {musicPermissionGiven && currentMusic && musicPlaying && (
         <ReactAudioPlayer
           id="audio-player"
           src={currentMusic}
