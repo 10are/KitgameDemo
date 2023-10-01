@@ -1,0 +1,100 @@
+{
+    "pages": {
+      
+      
+      "8": {
+        "backgroundMusic": "bar",
+        "backgroundImage": "images/bar.jpeg",
+        "content": "Aybar'ın patronu öfkeyle bir bez parçasını masaya fırlatır. Patron, \"Bir iki saat içinde açılış yapmamız gerekiyor, kapanışa başlamadık bile. Hızlı ol, hadi!\" diye bağırır. Aybar hemen işe koyulur. Eski prestijli ve güçlü asker kimliği artık geride kalmıştır. Şimdi sadece hayatta kalmak için uğraşır. Olan bitenler artık çok anlamsız gelir. Masaları temizledikten sonra bulaşıklar için bar bölümüne geçer. Mekan yavaş yavaş dolmaya başlar. Bulaşıkları yıkarken patronu, \"Aybar, bugün iyisin gibi görünüyor. Bulaşıkları ben yıkayacağım, sen müşterilerle ilgilen\" der. Aybar tebessüm eder ve hiçbir şey demeden servise geçer."
+        ,
+        "options": [
+          { "text": "Sonraki Sayfa", "target": "9" }
+        ]
+      },
+      "9": {
+        "backgroundImage": "images/bar.jpeg",
+        "backgroundMusic": "bar",
+        "content": "Ancak müşterileri görünce durumu anlar. Kendi bölgelerinin silah tüccarı olan Sebak mekandadır. Patronu, korkusundan Aybar'ı öne sürmüştür. Aybar'la birlikte çalışan 19 yaşında genç bir kız daha vardır. Sebak, kızı işaret eder ve yanına çağırır. Kız hızlıca yanına gider ve \"Ne istersiniz?\" diye sorar. Sebak, kızın kolundan tutar ve \"Kaç paradır senin?\" diye sorar. Kız kolunu geri çeker ve tekrar sorar, \"Ne istiyorsunuz?\" Sebak, reddedilmeye tahammülü olmayan bir psikopattır. Kıza tokat atar ve kız yere düşer."
+        ,
+        "options": [
+          { "text": "Aybar yardım eder", "target": "10" },
+          { "text": "Sadece izler", "target": "12" }
+        ]
+      },
+      "10": {
+        "backgroundImage": "images/bar.jpeg",
+        "backgroundMusic": "bar",
+        "content": "Aybar, hızlıca Gülsüm'ün yanına gider ve onu yerden kaldırır. Dudağında biraz kan vardır, ancak ciddi bir yara gibi görünmemektedir. Aybar, iyi bir askerdi ve Sebak ile yanındaki iki kişiyi etkisiz hale getirebilecek tekniklere sahipti, ancak bu durumun işleri değiştirmeyeceğini biliyordu. Bu nedenle Gülsüm'ü yerden kaldırırken koluna girer. Tam bu sırada Sebak, Aybar'ın omzundan tutar ve onu kendine çevirir. \"Kahramanlık mı yapmaya çalışıyorsun?\" der. Aybar sessizce bakar, ancak öfkesi gözlerinden çok rahat anlaşılır. Sebak gülümser."
+        ,
+        "options": [
+          { "text": "Sonraki Sayfa", "target": "11" }
+        ]
+      },
+      "11": {
+        "backgroundImage": "images/bar.jpeg",
+        "backgroundMusic": "bar",
+        "content": "\"Cesursun, ama aptalsın. Seni şu an döverdim, ama ellerimi kirletmeye değmezsin.\" Aybar iç çeker ve geri döneceği sırada Sebak ekler, \"İşte bu yüzden yanımda adamlarım var.\" Sebak'ın yanında iri cüsseli bir adam bulunur, Aybar'a yumruk atar ve yere düşürdüğünde birkaç tekme daha atar. Aybar, hiçbir şey olmamış gibi kalkar ve bar kısmına geçer. Sebak ise patrona dönerek, \"Üç bira getir\" der. Aybar, mutfak kapısında patronuyla göz göze gelir, ancak patron gözlerini kaçırır. Gülsüm, teşekkür etmeye cesaret edemez, çünkü bu da yanlış anlaşılabilirdi. Aybar, içindeki sonsuz öfkeyle başa çıkmak zorunda kalır artık duygularını kontrol edememektedir, çünkü zaten en kötülerini yaşamıştır."
+        ,
+        "options": [
+          { "text": "Sonraki Sayfa", "target": "12" }
+        ]
+      },
+      "12": {
+        "backgroundImage": "images/bar.jpeg",
+        "backgroundMusic": "bar",
+        "content": "Gülsüm biraları Sebak ve adamlarına getirirken, Aybar arka tarafa geçer ve yere çöker. Kendisine kızıyordu. Nasıl olur da bu yaşadıklarına alışmıştı? Yaşamı gerçekten bu kadar değerli miydi yoksa onu hayata bağlayan bir şey mi vardı? Bu soruların yanıtını bir türlü bulamıyordu. Aybar, uzaklara dalarak düşünmeye devam ederken patron yaklaşır ve \"Şuradaki adama bak hadi,\" der. Aybar sessizce adama yaklaşır ve menüyü uzatır. Adam usulca kafasını kaldırır ve \"Ben Arslanlar'ı istiyorum\" der. Aybar'ın gözleri parlar, ancak hemen gözlerini kaçırır ve \"Menüde ne varsa onu getiririm\" der. Menüyü sert bir şekilde geri çeker ve arkasına döner."
+        ,
+        "options": [
+          { "text": "Sonraki Sayfa", "target": "13" }
+        ]
+      },
+      "13": {
+        "backgroundImage": "images/bar.jpeg",
+        "backgroundMusic": "bar",
+        "content": "Adam ayağa kalkar ve elindeki resmi Aybar'a gösterir. \"Otur şuraya ve beni dinle. Aksi takdirde asker olduğunu herkese söylerim,\" der. Aybar adamın elindeki resme bakar ve üniformalı fotoğrafını görür. Aybar, adamı hızlıca etkisiz hale getirip fotoğrafı almayı düşünse de, bu dikkat çekecektir. Sakince masaya oturur. \"Ne istiyorsun?\" diye sorar. Gizemli adam, \"Burada konuşamayız. Dışarıda arabam var. Benimle gel, her şeyi anlatacağım sana. Dışarıda seni bekleyeceğim. Eğer gelmezsen seni bir daha rahatsız etmem. Bu kötü hayatına devam etmeni sağlarım, endişelenme,\" der ve kalkıp dışarı çıkar."
+        ,
+        "options": [
+          { "text": "Sonraki Sayfa", "target": "15" }
+        ]
+      },
+      "14": {
+        "backgroundImage": "images/bar.jpeg",
+        "backgroundMusic": "bar",
+        "content": "Aybar, adamın masaya bıraktığı parayı alır. Çok fazla para bırakmıştı. Aybar gerilmişti, bu durum hiç normal değildi fakat merak ediyordu. Adamın ne çıkarı olabilirdi Aybar'dan? İstese onu orada öldürttü ama sadece konuşmak istiyordu. Aslında Aybar kararını çoktan vermişti. Önlüğünü bırakmak için mutfağa gitti, tam o sıra tuvaletin önünde Patronun, Gülsüm'ü taciz ettiğini görür."
+        ,
+        "options": [
+          { "text": "Sonraki Sayfa", "target": "15" }
+        ]
+      },
+      "15": {
+        "backgroundImage": "images/bar.jpeg",
+        "backgroundMusic": "bar",
+        "content": "Patron, \"Ne bakıyorsun lan it, işinin başına dön\" der ve belindeki silahı gösterir. Burun buruna karşı karşıyadırlar. Aybar aklından silahı hızlıca alıp, patronu oracıkta öldürmeyi düşünür fakat bu neyi çözecekti? Gülsüm daha iyi bir hayat elde edebilecek miydi? Kurtulabilecek miydi? Aybar, \"İşi bırakıyorum. Gideceğim. Gülsüm'ü bırak, sorun çıkmasın\" der. Patron, \"Lan it!, Neyi bırakıyorsan bırak, siktir ol git, kafana boşaltma şarjörü\" der."
+        ,
+        "options": [
+          { "text": "Patronu öldür", "target": "16" },
+          { "text": "Bir şey yapma", "target": "18" }
+        ]
+      },
+      
+      "19": {
+        "backgroundImage": "images/bar.jpeg",
+        "content": "Aybar, mutfağa geçer ve birkaç eşyasını toplar. Dışarıdan Patron ve Gülsüm'ün sesleri hala devam etmektedir. Gülsüm, bağırmaz ve mücadele etmez, çünkü mecburdur. Ne yapabilirdi ki? Onu kurtarmak sadece ucuz bir kahramanlık olurdu. Para kazanabileceği birkaç yerden biri burasıydı. Gülsüm, ailesine bakmaya çalışan zavallı biriydi ve onu koruyacak kimse yoktu."
+        ,
+      "options": [
+        { "text": "Sonraki Sayfa", "target": "20" }
+      ]
+      },
+      "20": {
+        "backgroundImage": "images/bar.jpeg",
+        "content": "Aybar, yaptığını mantığına ne kadar kabul ettirebilmiş olsa da, vicdanına bunu asla anlatamıyordu. Kendinden iğreniyordu. Daha fazla dayanamayıp bardan çıktı. Barın tam karşısında eski bir araç ve adam içindeydi. Hala onu bekliyordu. Aybar arabaya biner. Adam \"Güzel\" der ve arabayı çalıştırır, yola devam ederler."
+        ,
+      "options": [
+        { "text": "Sonraki Sayfa", "target": "book2.json" }
+      ]
+  
+  
+    }
+    
+  }
+  }

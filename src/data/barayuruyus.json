@@ -1,0 +1,45 @@
+{
+    "pages": {
+        "backgroundMusic": "rain",
+        "1": {
+            "backgroundImage": "images/eskiev.jpg",
+          "content": "**Günümüz (2034)... Hatay... Gece 03.00**\n\nŞiddetli yağmur ve şimşek sesleriyle uyanan Aybar, 2028'deki Son Yürüyüş Operasyonu gazilerinden biriydi. Yakınına düşen bir bomba nedeniyle, sol kulağı neredeyse işitmez hale gelmişti ve sol gözü de %50 görme yetisini kaybetmişti. Yetimhanede büyümüş olan Aybar, gitmek için başka bir yere sahip değildi. 2029'daki büyük kayıptan bu yana Hatay'dan çıkamıyordu. Adana, Osmaniye, Kilis ve Hatay'dan Türkiye'ye giriş artık mümkün değildi, bu bölgeler terkedilmişti. Aybar, kimliğini gizleyerek hayatta kalmak için bir eğlence mekanında çalışıyordu."
+          ,      
+          "options": [
+            { "text": "Sonraki Sayfa", "target": "2" }
+          ]
+        },
+        "2": {
+          "content": "Aybar, çatı katı olan küçük evinin penceresini hafifçe aralayarak yağmuru izledi. Susuzluk sıkıntısı git gide artarken, bu yağmur en azından biraz olsun onu mutlu etmişti. Sabah saat 05.00'te işi vardı. Mekan, Türk bir işletmecinin sahibi olduğu yerdi, ancak artık kanunlar yoktu, güvenlik yoktu ve her mekan, her ev, her insan tehlikede, ölümle burun buruna yaşıyorlardı. Sadece güçlüler ve sessizler hayatta kalmayı başarabilirdi. Aybar, üstünü giyinmiş, dışarı çıkmak için hazır hale gelmişti."
+          ,
+          "backgroundImage": "images/eskiev.jpg",
+          "options": [
+            { "text": "Sonraki Sayfa", "target": "3" }
+          ]
+        },
+        "3": {
+          "content": "Aybar, 3 katlı yıkık bir binada yaşayan bir adamdı. İş yerine gitmek için sokağa indiğinde açlık ve susuzluktan bitkin düşmüştü. 1.2 kilometrelik bir yolu vardı ve yorgunluğu her adımında daha da artıyordu. Yavaşça ilerlerken, iki bina arasındaki küçük bir ara yola girdi, yolunun kısalması için. Ancak bu karanlık sokakta yürümek pek de güvenli değildi."
+          ,
+          "backgroundImage": "images/sokak.jpeg",
+          "options": [
+            { "text": "Sonraki Sayfa", "target": "4" }
+          ]
+        },
+        "4": {
+          "content": "Aniden, çöplerin yanında yatan bir adam hızla ayağa kalktı. Aybar çok tedirgin olmuştu, çünkü gizemli adamın yüzü belirgin değildi ve etrafı karanlıktı. Gizemli adam, Aybar'ın kulağına doğru yaklaşıp, bir şeyler fısıldamaya başladı. Ancak, söyledikleri anlaşılmıyordu."
+          ,
+          "backgroundImage": "images/sokak.jpeg",
+          "options": [
+            { "text": "Aybar ne dedin duymadım der", "target": "5" },
+            { "text": "Aybar bir şey demez", "target": "5" }
+          ]
+        },
+        "5": {
+          "content": "Adam hiçbir şey demeden uzaklaşır. Hızlıca Aybar’ın geldiği yöne doğru gider.\n\nAybar, gizemli adamın söylediklerini anlamadan uzaklaşmasına şaşırsa da, bu durumu pek ciddiye almaz ve yoluna devam eder. Uzun, karanlık, soğuk ve tehlikeli yolun ardından sonunda çalıştığı bara ulaşır. "
+          ,"backgroundImage": "images/sokak.jpeg",
+          "options": [
+            { "text": "Sonraki Sayfa", "target": "barsahnesi.json" }
+          ]
+        }
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "pages": {
+      "backgroundMusic": "silah",
+      "1": {
+        "backgroundImage": "images/bar.jpeg",
+        "content": "Silahı hızla alır ve ateş eder Aybar. Patrondan fışkıran kan, Gülsüm’e sıçramıştı. Gülsüm kanlar içindedir ve ağlamaya başlar. \"Neden yaptın bunu? Şimdi ne yapacağım? Açlıktan mı öleceğim? Aileme nasıl bakacağım?\" Aybar hiçbir şey söyleyemez, sadece ona sarılır ve sessizce kalır. Gülsüm ağlamaya devam eder ve yakınlarından Sebak ve adamlarının sesleri duyulur. Acilen oradan uzaklaşmaları gerektiğini anlar."
+        ,      
+        "options": [
+          { "text": "Sonraki Sayfa", "target": "2" }
+        ]
+      },
+      "2": {
+        "backgroundImage": "images/bar.jpeg",
+        "content": "\"Gülsüm, arka kapıdan çıkacağız. Bu parayı al, seni bir süre idare eder. Bir gün her şey düzelecek, umudunu yitirme,\" der Aybar. İçeriden hızla eşyalarını toplar ve arka kapıdan dışarı çıkar. Sokakta adamı görür, hâlâ bekliyordur. Arabaya biner... Adam \"Güzel\" deyip, arabayı çalıştırır ve devam ederler."
+      ,
+      "options": [
+        { "text": "Sonraki Sayfa", "target": "3" }
+      ]
+      },
+      "3": {
+        "backgroundImage": "images/bar.jpeg",
+        "content": "\"Gülsüm, arka kapıdan çıkacağız. Bu parayı al, seni bir süre idare eder. Bir gün her şey düzelecek, umudunu yitirme,\" der Aybar. İçeriden hızla eşyalarını toplar ve arka kapıdan dışarı çıkar. Sokakta adamı görür, hâlâ bekliyordur. Arabaya biner... Adam \"Güzel\" deyip, arabayı çalıştırır ve devam ederler."
+      ,
+      "options": [
+        { "text": "Sonraki Sayfa", "target": "book2.json" }
+      ]
+      }
+    }
+  }

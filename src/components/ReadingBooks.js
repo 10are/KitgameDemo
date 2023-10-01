@@ -13,8 +13,11 @@ const importAll = (r) => {
 const importedBooks = importAll(require.context('../data', false, /\.json$/));
 
 const musicLibrary = {
-  music1: '/music/rain.mp3',
-  music2: '/music/tren.mp3',
+
+  daktilo: '/music/daktilo.mp3',
+  rain: '/music/rain.mp3',
+  bar: '/music/barmuzik.mp3',
+  silah: '/music/silah.mp3',
 };
 const StartButton = ({ onStart }) => {
   return (

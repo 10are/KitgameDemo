@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "1": {
+            "backgroundImage": "images/bar.jpeg",
+            "content": "Aybar, mutfağa geçer ve birkaç eşyasını toplar. Dışarıdan Patron ve Gülsüm'ün sesleri hala devam etmektedir. Gülsüm, bağırmaz ve mücadele etmez, çünkü mecburdur. Ne yapabilirdi ki? Onu kurtarmak sadece ucuz bir kahramanlık olurdu. Para kazanabileceği birkaç yerden biri burasıydı. Gülsüm, ailesine bakmaya çalışan zavallı biriydi ve onu koruyacak kimse yoktu."
+            ,
+          "options": [
+            { "text": "Sonraki Sayfa", "target": "2" }
+          ]
+          },
+          "2": {
+            "backgroundImage": "images/bar.jpeg",
+            "content": "Aybar, yaptığını mantığına ne kadar kabul ettirebilmiş olsa da, vicdanına bunu asla anlatamıyordu. Kendinden iğreniyordu. Daha fazla dayanamayıp bardan çıktı. Barın tam karşısında eski bir araç ve adam içindeydi. Hala onu bekliyordu. Aybar arabaya biner. Adam \"Güzel\" der ve arabayı çalıştırır, yola devam ederler."
+            ,
+          "options": [
+            { "text": "Sonraki Sayfa", "target": "book2.json" }
+          ]
+        }
+    }
+  }

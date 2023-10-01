@@ -1,126 +1,20 @@
 {
   "pages": {
-    "backgroundMusic": "music1",
-    "1": {
-      
-      "content": "Diyarbakır'da gri ve yağmurlu bir sabah vardı. Kemal, Uzay bilimleri mühendisi olarak çalıştığı Uluslararası Uzay ve Teknoloji Araştırma Merkezi'ne (UUTAM) gitmek üzere yataktan kalkıp duşa girdi. Öylesine şiddetli bir yağmur vardı ki, duşta bile dışarıdaki yağmurun sesini net bir şekilde duyabiliyordu. Kemal, eski külüstür arabasıyla iş yerine nasıl gideceğini düşünmeye başladı. Yağmurun şiddeti onu biraz endişelendiriyordu. Duştan çıktı, üstünü kuruladı ve onunla birlikte çalışan diğer iki arkadaşına mesaj attı. \"Beni alabilir misiniz?\" diye sordu. Ancak bir süre cevap alamadıktan sonra tekrar aradı ve ulaşamadı. Durumdan pek memnun olmayan Kemal, iç çekip arabasına doğru yola aldı. Yağmur şiddetlenmişti. Arabasına binip kontağı çevirdi, arabanın ısınmasını beklerken özel şirket mesajlaşmaları için kullandığı Slack grubunu açtı. Ancak grupta hiçbir mesaj görünmüyordu ve hatta grup silinmiş gibiydi. Anlam verememişti bu duruma çünkü tüm görevlendirmeler genellikle bu grup üzerinden gidiyordu. Kemal bir hayli huysuzlanmıştı bu durumdan.",
-      "backgroundImage": "images/indir2.jpg",
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "2" }
-      ]
-    },
-    "2": {
-      "content": "Arabasını yağmurun şiddetini göz önünde bulundurarak yavaşça sürmeye başladı. İş yerine gitmek için yarım saatlik bir mesafe vardı, ancak yağmurdan dolayı bu sefer neredeyse bir saat sürdü. Kemal biraz geç kalmıştı ve iş yerine gittiğinde kapıya vurdu, ancak kimse kapıyı açmadı. Durumu anlamak için içgüdülerini dinleyerek etrafına bakındı. Tam o sırada Deniz ve Can geldi, arabayı hemen yanına park ettiler. Kemal'in yüzünde şaşkınlık vardı. 'Nasıl bu kadar geç kaldınız?' dedi. Deniz, hafif bir gülümsemeyle cevap verdi. 'Maalesef trafik ve yağmur bizi geciktirdi.' Can da onaylayarak ekledi, 'Evet, tam bir trafik kabusuyla karşılaştık.' Kemal, arkadaşlarının rahat tavırlarına karşı içinde hala bir gariplik hissediyordu. Yaşananların sadece yağmur nedeniyle olduğunu düşünmek istedi ancak içindeki huzursuzluk geçmiyordu. İş yerinde olanlarla ilgili bir şeylerin ters gittiğini düşünüyordu.",
-
-      "backgroundImage": "images/indirsex.jpg",
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "book2.json" }
-      ]
-    },
-    "3": {
-      "content": "Kemal, yağmurun verdiği rahatsızlıkla, hızlıca şifreyi girip üste girmek istedi, fakat işe yaramıyordu. Yağmurdan dolayı olabileceğini düşündü, ama üstün teknolojisi, bir yağmur ile bozulacak seviyede değildi. Kemal Can'a seslendi, \"Şu kartını kullan, şifre geçmiyor,\" dedi. Can da denedi, fakat kapı hala açılmıyordu. Deniz, ayy yeter, sırılsıklam oldum. Kemal, kilidi aç da arabana binelim dedi. Kemal, Deniz'e biraz sinirli, biraz da durumun verdiği huzursuzlukla garip garip bakıp, hiçbir şey demeden kilidi açıp arabaya bindi. Deniz ve Can da ardından bindi. Kemal eline hemen telefonunu alıp, genel merkezle iletişim kurmaya çalıştı. Şirket herkese telefon ve kişiye özel hat vermişti. Kemal'de sadece Amerika'daki işe girerken tanıştığı HR olan Zenaida'nın numarası vardı. Hemen onu aradı. Zenaida telefonu hemen açtı. Kemal daha selam veremeden, Zenaida, \"Kemal, problem var, Kanada'da sabah saatlerinde üstlerimizden birinde, bir acil durum ihbarı yapıldı. Güneş ışınlarıyla ilgili bir rapor yayımladılar, fakat rapor yayımlanır yayımlanmaz, tüm iletişim araçlarımız kesildi, üstler kitlendi ve yöneticilere asla ulaşamıyoruz. Üste girebiliyor musunuz?\" Kemal şok geçirdi."
-      ,
-      "backgroundImage": "images/indir2.jpeg",
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "4" }
-      ]
-    },
-    "4": {
-      "content": "O sırada arkada Deniz, \"Instagram, Twitter, hepsi kapalı ya, bizim internette mi problem var acaba?\" dedi. Kemal sert bir ses tonuyla, \"Kapatın çenenizi,\" deyip, telefonu hoparlörlere aldı. \"Zenaida, dediklerini tekrar anlatır mısın?\" dedi. Zenaida ise, \"Üste yakınsanız ne yapıp ne edip içeri girin, bir terslik var,\" dedi. Deniz ve Can olaya çok yabancı kaldı. Kemal arabadan hışımla indi, bagajdan baltayı aldı. Üstün arka kapısına gidip vurmaya başladı. Deniz ve Can peşinden gitti. Can, \"Ne yapıyorsun lan sen, kendine gel. Başımıza jandarmaları toplayacaksın,\" dedi. Üstün güvenlik politikaları devlete bağlıydı. İzinsiz girişlerde en yakındaki jandarma karakoluna bildirim düşüyordu. Kemal kapıyı kırdı ve içeri girdiler. Kemal hemen bilgisayarının başına oturdu ve Kanada'dan gelen raporu inceliyordu. Raporda Güneş'in gönderdiği ışınların değerlerinde bir bozulma olduğunu ve ışınların dünyaya gelmesiyle tüm DNA yapısının bozulabileceğini öngördüklerini fark etti. Zararlı ışınların Dünya'ya çarpması için öngörülen süre ise 12 Şubat, yani 2 gün sonraydı. Kemal, raporu sesli bir şekilde okumuştu. Deniz ağlamaya başladı, sinir krizi geçiriyordu. Can, onu sakinleştirmeye çalışırken Kemal'e \"Bizimle şaka falan yapıyor olmasınlar?\" diye sordu. Kemal ise, \"Saçmalama, tüm sistemleri durdurmuşlar. Bir şaka için böyle bir şey yapılır mı?\" dedi."
-      ,
-      "backgroundImage": "images/indir2.jpeg",
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "5" }
-      ]
-    },
-    "5": {
-      "content": "O sırada Kemal'in telefonuna bir SMS geldi. Tatbikat için Türkiye genelinde OHAL ilan edildiği, endişe edilecek bir durumun olmadığı, ancak şehirler arası yolculuğun kesinlikle yasaklandığı yazıyordu. Kemal, telefonuna sarıldı ve Zenaida'ya durumu özetlemek istedi. Ancak Zenaida ona fırsat vermeden konuşmaya başladı. \"Kemal, dünya'da 2 gün sonra güneşin temas ettiği her şey bozulacak, her canlı ölecek. Eşim az önce tüm olan biteni anlattı. Bir sığınak var, oraya gidiyoruz. Devletler kendi aralarında sessizlik yemini etmişler. Sessizce kendilerini sığınaklara kapatıp, geri kalanları ÖLÜME terk edecekler. Elimde her ülkenin sığınaklarının olduğu bir liste var. Türkiye için 3 adet sığınak adresi var. Ankara, İstanbul ve Çanakkale'de bulunuyor. Ne yapıp ne edin sığınaklara ulaşın.\" dedi ve telefonu kapattı. Kemal, \"Dur dur, açık adres vermeyecek misin?\" dedi, tam o sırada bir fotoğraf yolladı; açık adreslerin olduğu fotoğraf. Kemal Zenaida’ya inanıyordu çünkü eşi bir bürokrattı. Deniz, bunları duyduktan sonra iyice kötü oldu. O sırada siren seslerini duymaya başladılar, jandarma gelmişti."
-      ,
-      "backgroundImage": "images/indir2.jpeg",
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "6" }
-      ]
-    },
-    "6": {
-      "content": "Kemal, kapıya çıkıp jandarmayı karşılar. Gelen asker Yusuf Komutandı. Kemal, Yusuf Komutanı çok da samimi olmamakla birlikte tanırdı. Yusuf Komutan, 'Kemal Bey, merhaba. Alarmı öttü, hayırdır bir sorun yok değil mi?' der. Kemal çok gergindi ve komutanın Deniz'e baktığını fark etti. Deniz berbat görünüyordu. Kemal yalan söylemeyi düşündü ama komutan çoktan şüphelenmişti. Kemal..."
-      ,
-      "backgroundImage": "images/indir3.jpeg",
-      "options": [
-        { "text": "Kemal yalan söyler", "target": "7" },
-        { "text": "Kemal bir şey yok der", "target": "8" }
-      ]
-    },
-    "7": {
-      "content": "Kemal, hızla düşünerek cevap verdi, 'Yusuf Komutan, ufak bir elektrik arızası oldu, sadece rutin bakım yapıyoruz. Endişelenmeyin, her şey kontrol altında.' dedi. Ancak gözlerinden kaçamayan huzursuzluğu, yüzüne yansımış olmalı ki komutanın bakışları daha da şüphe dolu hale geldi. Kemal'in açıklaması beklenmedik bir durum karşısında fazlasıyla sakin ve önceden hazırlanmış gibi gelmişti. Yusuf Komutan, kısa bir an sessiz kaldıktan sonra 'Kemal, elektrik arızası olsa alarm ötmezdi herhalde. Gel baş başa bi görüşelim araçta.'"
-      ,
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "9" }
-      ]
-    },
-    "8": {
-      "content": "Kemal, hızla düşünerek cevap verdi, 'Yusuf Komutan, her şey yolunda. Sadece yağmur nedeniyle işe biraz geç geldik. Rutin kontrolleri yapmak için geldik, sizi rahatsız etmek istemedik. Herhangi bir sorun olmadığını düşünüyorum.' dedi, fakat içten içe bir tedirginlik hissediyordu. Yusuf Komutan, Kemal'in yüzündeki bu tedirginliği fark etti ve gözlerini Deniz'e çevirdi. Deniz'in hali, durumun ciddiyetini açığa çıkarıyordu. Komutan, 'Anladım. Peki, neden bu kadar gerginsiniz? Haliniz hoşuma gitmedi Kemal. Gel bakalım araca sen.'"
-      ,
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "9" }
-      ]
-    },
-    "9": {
-      "content": "Kemal komutanın aracına biner. Komutan şöföre, 'Delikanlı in bakalım sen araçtan' der. Kemal komutanın bir şey bildiğinden şüphelenir fakat komutana gerçekleri söylemek istemez çünkü komutan tekinsiz biriydi. Tüm köyün dedikodsunu yaptığı kötü bir adamdı. Komutan Kemal'e biraz sert bir şekilde bakıp, sigara yaktı. Kemal sigara dumanından rahatsız olup camı açmak istedi, Komutan 'Dur açma 2 dakika, olaylardan haberin var mı?' dedi. Kemal, 'Ne olayı? Anlamadım komutanım.' Komutan gözlerini kıstı ve sinirlenmiş gibiydi, 'Mühendis adamsın, hiç mi haber takip etmiyorsun? Durup dururken OHAL ilan edildi. Garip garip dedikodular var; uzaya bir şey olmuş, uzaylılar gelecekmiş, senin işin bu değil mi?'\n\nKemal, acilen Ankara'ya gitmeleri gerektiğini düşünüyordu. Vakti azdı ve orada komutanı kullanmak mantıklı mı, mantıksız mı diye düşünmeye başladı. Komutan bekar, kimsesiz biriydi. Yük olmaktan çok faydası olabilirdi ama bir o kadar da tehlikeliydi. Kemal kararsızdı…"
-      ,
-      "options": [
-        { "text": "Kemal gerçekleri söyler", "target": "10" },
-        { "text": "Kemal hiçbir şey olmamış gibi davranır", "target": "11" }
-      ]
-    },
-    "10": {
-      "content": "Kemal, içindeki baskıya dayanamayarak bir an tereddüt etti ama sonra derin bir nefes alıp konuşmaya başladı, 'Komutanım, bildiğim kadarıyla bir OHAL ilan edilmiş. Bazı tuhaf olaylarla ilgili haberler var ama gerçekten elimde net bilgiler yok.'\n\nKomutan kaşlarını çattı, 'Bunu kimden duydun?'\n\nKemal, 'Birkaç arkadaştan, iş yerindeki dedikodulardan duydum. Ama tam olarak ne olduğunu bilemiyorum.'\n\nKomutan ciddiyetini korurken, 'Kemal, bu işin ne kadar ciddi olduğunu anlayamıyor musun? Seni burada kullanmam gerekebilir. Bana gerçekleri söyle.'\n\nKemal bir an duraksadı ve ardından içini çekerek, 'Tamam, komutanım. İyi dinleyin, çünkü anlatacaklarım oldukça garip...'"
-      ,
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "12" }
-      ]
-    },
-    "11": {
-      "content": "Kemal, 'Komutanım, gerçekten bilmediğim bir durum. Son günlerde fazla iş yoğunluğum vardı, haberleri takip edemedim' dedi, ama komutanın gözlerindeki sert ifadeyi fark etti. Komutan, aniden arabayı kenara çekti ve ciddi bir ifadeyle Kemal'a döndü.\n\n'Kemal, seninle samimi konuşacağım. Bu işin içinde ne olduğunu biliyorsun değil mi?' diye sordu. Kemal tereddüt etti ama komutanın gözlerindeki kararlılık ve tehditkar tavrı karşısında gerçekleri saklamamanın daha iyi olacağını düşündü.\n\nKemal yavaşça başını sallayarak, 'Evet, komutanım. Ancak çok net bir şey bilmiyorum. Sadece şehir efsaneleri ve dedikodular var' dedi.\n\nKomutan homurdandı, 'Yalan söyleme Kemal, seni tanırım. Üstlerin ne kadarını biliyorsun? Ne gibi hazırlıklar yapılıyor?'\n\nKemal, içindeki baskıya dayanamayarak bir an tereddüt etti ama sonra derin bir nefes alıp konuşmaya başladı, 'Komutanım, bildiğim kadarıyla bir OHAL ilan edilmiş. Bazı tuhaf olaylarla ilgili haberler var ama gerçekten elimde net bilgiler yok.'\n\nKomutan kaşlarını çattı, 'Bunu kimden duydun?'\n\nKemal, 'Birkaç arkadaştan, iş yerindeki dedikodulardan duydum. Ama tam olarak ne olduğunu bilemiyorum.'\n\nKomutan ciddiyetini korurken, 'Kemal, bu işin ne kadar ciddi olduğunu anlayamıyor musun? Seni burada kullanmam gerekebilir. Bana gerçekleri söyle.'\n\nKemal bir an duraksadı ve ardından içini çekerek, 'Tamam, komutanım. İyi dinleyin, çünkü anlatacaklarım oldukça garip...'"
-      ,
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "12" }
-      ]
-    },
-    "12": {
-      "content": "Komutanım, ABD'den aldığımız bir bilgiye göre, 2 gün sonra doğacak güneş, tüm DNA yapılarını bozacak. Güneşin temas ettiği her şey mahvolacak. Alarmı bu yüzden tetikledik ve kapıları kilitlemişlerdir. Hükümetler, bu gerçeği insanlardan saklıyor çünkü böyle bir felaket karşısında milyonlarca insanı koruyacak sığınaklar yok. Elimizdeki en iyi ihtimal, Ankara'daki sığınaktır. Eğer oraya 2 gün içinde ulaşamazsak, sonumuz olur.” Yusuf Komutan dona kaldı, gözleri uzaklara daldı. Sonra Kemal’e dönerek, “Demek ki bu yüzden trenlerin hepsi erzak taşıyor Ankara’ya.” Kemal treni duyunca aklına bir fikir geldi. Yusuf komutanın rütbesi sayesinde trene bir şekilde binebilirlerdi, ama araba ile de hızlıca gidebilirlerdi. Kemal..."
-      ,
-      "options": [
-        { "text": "Tren ile gitmeyi teklif et", "target": "14" },
-        { "text": "Araba ile gitmeyi teklif et", "target": "13" }
-      ]
-    },
-    "13": {
-      "content": "Kemal: 'Komutanım, trenin kalktığı yere zaten çok yakınız. Rütbenizle bize trene girmemize yardımcı olabilirsiniz. Ama arabayla gitmeyi düşünsek, hızlıca ilerleyebiliriz ve daha fazla insana yardım edebiliriz.'\n\nKomutan Yusuf, düşündükten sonra cevap verdi: 'Kemal, arabayla gitmek riskli olurdu. OHAL ilan edildiği için yolların da kontrol altında olduğunu düşünüyorum. Tren, en güvenli ve garantili yol gibi görünüyor. Ayrıca, trenle giderken daha fazla insana ulaşma şansımız olacak. Her ihtimale karşı sakin olmalıyız.'\n\nKemal, Komutan Yusuf'un mantıklı açıklamasını kabul etti ve birlikte tren istasyonuna doğru ilerlemeye devam ettiler."
-      ,
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "15" }
-      ]
-    },
-    "14": {
-      "content": "Komutanım, trenin kalktığı yere zaten çok yakınız. Rütbenizle bize trene girmemize yardımcı olabilirsiniz. Biz de sizi sığınağa götürebiliriz. Başka bir kurtuluş yolu yok, herkesi kurtarma şansımız da yok. Acele etmeliyiz.' dedi Kemal. Yusuf komutan derin bir iç çekti. Arkasında bırakacaklarını düşünüyordu ama kendisi yetimdi. Arkada bırakabileceği tek şey orduydu. Kararını çoktan vermişti, yaşamak istiyordu ama bunu söylemeye bile utanıyordur. Kemal durumu fark edip, 'Bak Yusuf, biliyorum çok zor bir karar ama sen de biliyorsun. Bunu yaymanın kimseye bir faydası yok. Herkes kurtulamayacak. Dünya’nın sonu bu.' Yusuf komutan başını kaldırıp,' tamam ama kapıdaki askerde bizimle gelecek.' Kemal’in kabul etmekten başka çaresi yoktu çünkü tek başına bırak trene gitmeyi, merkeze bile inemezlerdi. Kemal camı açıp içeri girin dedi, askeri araç ile yola çıktılar, Deniz ve Can’ın endişeli bir şekilde nereye gidiyoruz dedi Kemal’e. Kemal, 'Tren istasyonuna gidiyoruz. Can sinirli bir şekilde 'Ne tren istasyonu lan, ne işimiz orada. İndirin beni.' diye bağırdı. Yusuf Komutan arkaya dönüp bir bakışı ile Can’ı susturdu. Yusuf Komutan, 'Sakin olun, Kemal bilmem gereken her şeyi söyledi, tren ile Ankara’ya gidiyoruz.' O sırada her şeyden habersiz asker ise 'Komutanım, Trene niçin gittiğimizi sorabilir miyim?' dedi. Yusuf komutan cevap bile vermedi. Çok geçmeden istasyona vardılar."
-      ,
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "15" }
-      ]
-    },
-    "15": {
-      "content": "Trene son erzakları koyuyorlardı. Yusuf Komutan yetkilisi kim buranın diye bağırdı. Trenin makinisti geldi. Buyur kardeş dedi. Yusuf Komutan, 'kardeş değil, Binbaşı Yusuf, ne zaman hareket edeceksiniz, biz de geliyoruz.' Makinist, '10 dk’ya harekete geçeceğiz ama tren’e kimseyi alamam elimdeki liste dışında. Kusura bakmayın.' Yusuf komutan iyicene sinirlendi ama ne yapacağına o da bilmiyordu. Zor kullanma şansları yoktu, bu her şeyi belli ederdi. O sırada Deniz ağlayama başladı, makinist işkillenmişti durumdan. Yusuf komutan makinisti kenara çekip, bir şeyler söyledi. Yaklaşık 5 dakika sonra makinist ve Komutan, diğerlerinin yanlarına geldi. Makinist, '5 dakikaya kalkıyoruz, herkes 5. sıradaki vagona geçsin, hiç durmadan gideceğiz, acele edin.' Bu durum Kemal’in hoşuna gitmemişti ama başka çareleri de yoktu, Trene bindiler ve yolculuk başladı."      ,
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "16" }
-      ]
-    },
-    "16": {
-      "content": "Trene son erzakları koyuyorlardı. Yusuf Komutan yetkilisi kim buranın diye bağırdı. Trenin makinisti geldi. Buyur kardeş dedi. Yusuf Komutan, “kardeş değil, Binbaşı Yusuf, ne zaman hareket edeceksiniz, biz de geliyoruz.” Makinist, “10 dk’ya harekete geçeceğiz ama tren’e kimseyi alamam elimdeki liste dışında. Kusura bakmayın.” Yusuf komutan iyicene sinirlendi ama ne yapacağına o da bilmiyordu. Zor kullanma şansları yoktu, bu her şeyi belli ederdi. O sırada Deniz ağlayama başladı, makinist işkillenmişti durumdan. Yusuf komutan makinisti kenara çekip, bir şeyler söyledi. Yaklaşık 5 dakika sonra makinist ve Komutan, diğerlerinin yanlarına geldi. Makinist, “5 dakikaya kalkıyoruz, herkes 5. sıradaki vagona geçsin, hiç durmadan gideceğiz, acele edin.” Bu durum Kemal’in hoşuna gitmemişti ama başka çareleri de yoktu, Trene bindiler ve yolculuk başladı.",
-      "options": [
-        { "text": "Sonraki Sayfa", "target": "book2.json" }
-      ]
-    }
-
-
+    "backgroundMusic": "daktilo",
+      "1": {
+        "content": "2024\nCovid yeni ve son derece ölümcül bir Y varyantı ile dünyayı sarsmıştı. Güçlüler yükseldikçe, zayıflar eziliyordu.\n\n2025\nNihayet, Covid'e bir çözüm bulunmuştu: X serumu. Y varyantı, hızlı ve ölümcül bir virüs olarak biliniyordu. Yakalanan bir kişiyi ortalama yarım saat içinde öldürüyordu. Bu hiç de iyi bir ölüm şekli değildi. Küçük kalp krizleri, aşırı terlemeler ve daha fazlası insanları korkutuyordu. X serumu, virüsü anında öldürse de kalıcı bir çözüm değildi. Ancak yaşamı sürdürmek için yeterliydi.\n\n2026\nBüyük Amerika-Rusya savaşı artık başlamıştı. Tüm komşular ve ittifaklar bu savaştan nasibini almıştı.",
+  
+        "options": [
+          { "text": "Sonraki Sayfa", "target": "2" }
+        ]
+      },
+      "2": {
+        "backgroundMusic": "daktilo",
+        "content": "2027\nTürkiye sınırlarının ötesindeki kontrol kaybedilmişti ve savaş sınırlara kadar çekilmişti. Ekonomik güç zayıflarken iç asayiş kötüleşiyordu.\n\n2028\nProxy savaşlar, Türkiye sınırını tehlikeye atmıştı. Türk Silahlı Kuvvetleri (TSK), Son Yürüyüş Operasyonu'nu başlatarak Hatay sınırından ilerlemeye başladılar. Sonuç bekledikleri gibi olmasa da düşmanı yavaşlatmayı başardılar. Düşman, sadece basit bir örgüt değildi; susuzluktan, açlıktan ve kaçtıkları diğer savaşlardan kurtulan birçok farklı milletten ve terör örgütünden oluşan karmaşık ve düzensiz bir orduydu. Onların motivasyonu sadece bayrak ya da güç değil, hayatta kalmaktı. Bu onları durdurulamaz kılıyordu.\n\n2029\nHatay sınırı ortadan kaybolmuştu ve devamında Kilis, Adana, Osmaniye gibi şehirler özerk bölgelere dönüşmüştü. Meclis tarafından geri çekilme kararı alındığı için birçok asker bu bölgelerde bırakılmıştı."
+        ,
+        "options": [
+          { "text": "Sonraki Sayfa", "target": "barayuruyus.json" }
+        ]
+      }
   }
 }
